@@ -15,5 +15,5 @@ Feel free to view my resume online or download the PDF below.
 **Download:** [Resume.pdf](/academic-research/Resume-zh.pdf)
 
 <div style="width: 100%; height: 900px;">
-  <iframe src="/Resume-zh.pdf" width="100%" height="100%" style="border: 1px solid #ddd;" title="Resume PDF"></iframe>
+  <iframe src="/academic-research/Resume-zh.pdf" width="100%" height="100%" style="border: 1px solid #ddd;" title="Resume PDF"></iframe>
 </div>
