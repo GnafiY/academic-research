@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ""
-permalink: /academic-research/zh/
+permalink: /zh/
 lang: zh
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
-  <a href="/">English</a> | <strong>中文</strong>
+  <a href="/academic-research">English</a> | <strong>中文</strong>
 </div>
 
 我是李浩宇（Haoyu Li），将于2026年9月入学南京大学攻读博士学位，师从<a href="https://is.nju.edu.cn/ws">准聘副教授王帅</a>。硕士毕业于上海交通大学计算机科学与技术专业，师从<a href="https://www.cs.sjtu.edu.cn/jiaoshiml/yukai.html" target="_blank" rel="noopener">俞凯教授</a>。

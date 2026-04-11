@@ -6,7 +6,7 @@ lang: en
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
-  <strong>English</strong> | <a href="/zh/">中文</a>
+  <strong>English</strong> | <a href="/academic-research/zh/">中文</a>
 </div>
 
 I'm Haoyu Li (李浩宇), an incoming Ph.D. student at Nanjing University starting September 2026, where I will be supervised by <a href="https://is.nju.edu.cn/ws_en/main.htm">Shuai Wang, Tenure-Track Associate Professor</a>. I received my M.S. in Computer Science and Technology from Shanghai Jiao Tong University under the supervision of <a href="https://www.cs.sjtu.edu.cn/en/jiaoshiml/yukai.html" target="_blank" rel="noopener">Prof. Kai Yu</a>.
