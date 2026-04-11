@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 简历
-permalink: /resume/zh/
+permalink: /academic-research/resume/zh/
 lang: zh
 ---
 

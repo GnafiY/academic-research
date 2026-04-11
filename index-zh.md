@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /zh/
+permalink: /academic-research/zh/
 lang: zh
 ---
 

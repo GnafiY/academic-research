@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /academic-research/resume/
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
