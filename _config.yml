@@ -1,11 +1,14 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Haoyu Li (李浩宇)
+description: >
+  M.S. graduate from <a href="https://x-lance.sjtu.edu.cn/" target="_blank" rel="noopener">the X-LANCE Lab</a>,
+  Shanghai Jiao Tong University, supervised by <a href="https://www.cs.sjtu.edu.cn/en/jiaoshiml/yukai.html" target="_blank" rel="noopener">Prof. Kai Yu</a>.<br>
+  Incoming Ph.D. student at Nanjing University starting September 2026, to be supervised by <a href="https://is.nju.edu.cn/ws_en/main.htm" target="_blank" rel="noopener">Shuai Wang, Tenure-Track Associate Professor</a>.
+url: https://gnafiy.github.io
+avatar: /avatar.webp
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /AegeanSea.webp
 
 # Gems
 plugins:
@@ -28,15 +31,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
+# twitter:
+#   username: vszhub
+#   card: summary
+# logo: logo.png
 social:
-  name: Songzi Vong
+  name: Haoyu Li
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/gnafiy
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +56,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Haoyu Li
+  url: https://github.com/gnafiy/
+  email: haoyu.li.cs@sjtu.edu.cn
