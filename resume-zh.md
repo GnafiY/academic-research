@@ -6,7 +6,7 @@ lang: zh
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
-  <a href="/academic-research/resume/">English</a> | <strong>中文</strong>
+  <a style="text-decoration: none;" href="/academic-research/resume/">English</a> | <strong>中文</strong>
 </div>
 
 您可以在线查看我的简历或下载 PDF 文件。

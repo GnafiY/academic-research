@@ -6,10 +6,10 @@ lang: zh
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
-  <a href="/academic-research">English</a> | <strong>中文</strong>
+  <a style="text-decoration: none;" href="/academic-research/">English</a> | <strong>中文</strong>
 </div>
 
-我是李浩宇（Haoyu Li），将于2026年9月入学南京大学攻读博士学位，师从<a href="https://is.nju.edu.cn/ws">准聘副教授王帅</a>。硕士毕业于上海交通大学计算机科学与技术专业，师从<a href="https://www.cs.sjtu.edu.cn/jiaoshiml/yukai.html" target="_blank" rel="noopener">俞凯教授</a>。
+我是李浩宇（Haoyu Li），将于2026年9月入学南京大学攻读博士学位，师从<a style="text-decoration: none;" href="https://is.nju.edu.cn/ws">准聘副教授王帅</a>。硕士毕业于上海交通大学计算机科学与技术专业，师从<a style="text-decoration: none;" href="https://x-lance.github.io/kaiyu/" target="_blank" rel="noopener">俞凯教授</a>。
 
 研究方向聚焦于**目标说话人提取（Target Speaker Extraction, TSE）**、**自动语音识别（Automatic Speech Recognition, ASR）**与**语音大语言模型（Speech LLMs）**，致力于构建能够在嘈杂、多人说话的真实场景中稳定运行的鲁棒语音交互系统。
 
@@ -42,7 +42,7 @@ lang: zh
 
 ## 发表论文（选集）
 
-完整列表请见 **[发表论文](/publications/)**。
+完整列表请见 **[谷歌学术](/publications/)**。
 > \* 表示同等贡献。
 
 - **Text-aware Speech Separation for Multi-talker Keyword Spotting**  
@@ -80,6 +80,10 @@ lang: zh
   **arXiv:2603.10468**. *Submitted to Interspeech 2026.*  
   [paper link](https://arxiv.org/abs/2603.10468)
 
+## 荣誉奖项
+- 2019~2020年度本科生国家奖学金
+- 2020~2021年度本科生国家奖学金
+- 北京交通大学优秀毕业生
 
 ---
 
