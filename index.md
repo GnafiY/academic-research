@@ -51,7 +51,7 @@ You may refer to the full list on **[Google Scholar](https://scholar.google.com/
 
 - **Detect, Attend and Extract: Keyword Guided Target Speaker Extraction**  
   *Haoyu Li\**, Yu Xi\*, Yidi Jiang, Shuai Wang, Kate Knill, Mark Gales, Haizhou Li, Kai Yu  
-  **arXiv:2602.07977**. *Submitted to IJCAI-ECAI 2026.*  
+  **arXiv:2602.07977**. *Accpted by IJCAI-ECAI 2026.*
   [paper link](https://arxiv.org/abs/2602.07977)
 
 - **Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS**  
@@ -79,6 +79,15 @@ You may refer to the full list on **[Google Scholar](https://scholar.google.com/
   **arXiv:2603.10468**. *Submitted to Interspeech 2026.*  
   [paper link](https://arxiv.org/abs/2603.10468)
 
+
+## Education
+
+- **Nanjing University - School of Intelligence Science and Technology** (Expected 2026)
+  Ph.D. candidate | Advisor: Shuai Wang, Tenure-Track Associate Professor
+- **Shanghai Jiao Tong University - School of Computer Science** (2023~2026)
+  M.S. in Computer Science and Technology | Advisor: Prof. Kai Yu
+- **Beijing Jiaotong University - School of Computer Science and Technology** (2019~2023)
+  B.S. in Computer Science and Technology
 
 ## Honors & Awards
 - National Scholarship for Undergraduates (2019–2020)

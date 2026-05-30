@@ -42,7 +42,7 @@ lang: zh
 
 ## 发表论文（选集）
 
-完整列表请见 **[谷歌学术](/publications/)**。
+完整列表请见 **[谷歌学术](https://scholar.google.com/citations?user=ox4ykukAAAAJ)**。
 > \* 表示同等贡献。
 
 - **Text-aware Speech Separation for Multi-talker Keyword Spotting**  
@@ -52,7 +52,7 @@ lang: zh
 
 - **Detect, Attend and Extract: Keyword Guided Target Speaker Extraction**  
   *Haoyu Li\**, Yu Xi\*, Yidi Jiang, Shuai Wang, Kate Knill, Mark Gales, Haizhou Li, Kai Yu  
-  **arXiv:2602.07977**. *Submitted to IJCAI-ECAI 2026.*  
+  **arXiv:2602.07977**. *Accpted by IJCAI-ECAI 2026.*
   [paper link](https://arxiv.org/abs/2602.07977)
 
 - **Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS**  
@@ -79,6 +79,15 @@ lang: zh
   Jing Peng\*, Ziyi Chen\*, *Haoyu Li\**, Yucheng Wang, Duo Ma, Mengtian Li, Yunfan Du, Dezhu Xu, Kai Yu, Shuai Wang  
   **arXiv:2603.10468**. *Submitted to Interspeech 2026.*  
   [paper link](https://arxiv.org/abs/2603.10468)
+
+## 教育经历
+
+- **南京大学 - 智能科学与技术学院**（预计2026年入学）
+  攻读博士学位 | 导师：王帅 准聘副教授
+- **上海交通大学 - 计算机学院**（2023年~2026年）
+  工学硕士 | 导师：俞凯教授
+- **北京交通大学 - 计算机科学与技术学院**（2019年~2023年）
+  工学学士
 
 ## 荣誉奖项
 - 2019~2020年度本科生国家奖学金
