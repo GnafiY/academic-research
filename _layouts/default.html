@@ -22,12 +22,14 @@
         {%- include sidebar-left.html -%}
       </div>
 
-      <div class="content pure-u-1 pure-u-md-1-2">
+      <div class="content pure-u-1 {% if page.toc %}pure-u-md-1-2{% else %}pure-u-md-3-4{% endif %}">
         {%- include content.html -%}
       </div>
+      {% if page.toc %}
       <div class="sidebar-right pure-u-1 pure-u-md-1-4">
         {%- include sidebar-right.html -%}
       </div>
+      {% endif %}
     </div>
 
     <script async src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>

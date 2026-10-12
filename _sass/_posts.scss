@@ -17,9 +17,27 @@
     font-family: var(--body-font);
   }
 
+  a {
+    overflow-wrap: anywhere;
+  }
+
   li + li {
     margin-top: .25rem;
   }
+}
+
+.publications {
+  p {
+    hyphens: none;
+  }
+
+  a {
+    white-space: nowrap;
+  }
+}
+
+.education-period {
+  white-space: nowrap;
 }
 
 // Blog post or page title

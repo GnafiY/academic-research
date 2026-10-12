@@ -3,8 +3,9 @@ title: Haoyu Li (李浩宇)
 # M.S. graduate from <a href="https://x-lance.sjtu.edu.cn/" target="_blank" rel="noopener">the X-LANCE Lab</a>,
 # Shanghai Jiao Tong University, supervised by <a href="https://x-lance.github.io/kaiyu/" target="_blank" rel="noopener">Prof. Kai Yu</a>.<br>
 description: >
-  Incoming Ph.D. student at Nanjing University starting in September 2026, to be supervised by <a href="https://is.nju.edu.cn/ws_en/main.htm" target="_blank" rel="noopener">Shuai Wang, Tenure-Track Associate Professor</a>.
+  Ph.D. student at Nanjing University, supervised by <a href="https://is.nju.edu.cn/ws_en/main.htm" target="_blank" rel="noopener">Shuai Wang, Tenure-Track Associate Professor</a>.
 url: https://gnafiy.github.io
+baseurl: /academic-research
 avatar: /avatar.webp
 paginate: 5
 permalink: pretty
@@ -23,6 +24,7 @@ exclude:
   - .editorconfig
   - .git
   - .jekyll-cache
+  - AGENTS.md
   - Gemfile
   - Gemfile.lock
   - LICENSE.md
@@ -58,4 +60,4 @@ sass:
 author:
   name: Haoyu Li
   url: https://github.com/gnafiy/
-  email: haoyu.li.cs@sjtu.edu.cn
+  email: haoyu.li.cs@smail.nju.edu.cn
